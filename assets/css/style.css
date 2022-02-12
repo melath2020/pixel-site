@@ -16,7 +16,7 @@ body{
 
 .area{
     background: #ffffff;  
-    background: -webkit-linear-gradient(to left, #f7bc92, #ffb783);  
+    background: -webkit-linear-gradient(to left, #ffdbc2, #fac198);  
     width: 100%;
     height:0vh;
     
@@ -38,7 +38,7 @@ body{
     list-style: none;
     width: 20px;
     height: 20px;
-    background: rgb(253, 175, 120);;
+    background: rgb(247, 196, 160);;
     animation: animate 25s linear infinite;
     bottom: -150px;
     
